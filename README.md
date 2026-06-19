@@ -1,25 +1,27 @@
-# 🎬 VANGUARD — 크리에이티브 스튜디오 랜딩 페이지
+## 🚀 [앱 실행하기](https://lgw7126.github.io/antigravity-landing-page-07/)
 
-> **🔗 실행 링크**: [https://lgw7126.github.io/antigravity-landing-page-07](https://lgw7126.github.io/antigravity-landing-page-07)
+# ð¬ VANGUARD â í¬ë¦¬ìì´í°ë¸ ì¤íëì¤ ëë© íì´ì§
 
----
-
-## 📋 기획 개요
-
-크리에이티브 에이전시 VANGUARD의 싱글 페이지 랜딩. 풀스크린 배경 영상과 핫핑크 컬러 오버레이를 활용한 강렬한 비주얼 아이덴티티를 중심으로, Projects / Studio / Offerings / Inquire 섹션으로 구성된 포트폴리오 쇼케이스 페이지.
+> **ð ì¤í ë§í¬**: [https://lgw7126.github.io/antigravity-landing-page-07](https://lgw7126.github.io/antigravity-landing-page-07)
 
 ---
 
-## ✨ 주요 특징
+## ð ê¸°í ê°ì
 
-- **풀스크린 배경 영상** — AI 생성 영상(CloudFront CDN) 자동 재생
-- **핫핑크 색조 오버레이** — `mix-blend-mode: color` + `screen` 레이어로 독특한 무드 연출
-- **모바일 햄버거 메뉴** — 반응형 네비게이션 슬라이드 메뉴
-- **Crown / Award 배지** — 수상 실적 강조 UI 컴포넌트
+í¬ë¦¬ìì´í°ë¸ ìì´ì ì VANGUARDì ì±ê¸ íì´ì§ ëë©. íì¤í¬ë¦° ë°°ê²½ ììê³¼ í«íí¬ ì»¬ë¬ ì¤ë²ë ì´ë¥¼ íì©í ê°ë ¬í ë¹ì£¼ì¼ ìì´ë´í°í°ë¥¼ ì¤ì¬ì¼ë¡, Projects / Studio / Offerings / Inquire ì¹ìì¼ë¡ êµ¬ì±ë í¬í¸í´ë¦¬ì¤ ì¼ì¼ì´ì¤ íì´ì§.
 
 ---
 
-## 🛠️ 기술 스택
+## â¨ ì£¼ì í¹ì§
+
+- **íì¤í¬ë¦° ë°°ê²½ ìì** â AI ìì± ìì(CloudFront CDN) ìë ì¬ì
+- **í«íí¬ ìì¡° ì¤ë²ë ì´** â `mix-blend-mode: color` + `screen` ë ì´ì´ë¡ ëí¹í ë¬´ë ì°ì¶
+- **ëª¨ë°ì¼ íë²ê±° ë©ë´** â ë°ìí ë¤ë¹ê²ì´ì ì¬ë¼ì´ë ë©ë´
+- **Crown / Award ë°°ì§** â ìì ì¤ì  ê°ì¡° UI ì»´í¬ëí¸
+
+---
+
+## ð ï¸ ê¸°ì  ì¤í
 
 - **Framework**: React + TypeScript (Vite)
 - **Styling**: Tailwind CSS
@@ -27,14 +29,14 @@
 
 ---
 
-## 🚀 로컬 실행
+## ð ë¡ì»¬ ì¤í
 
 ```bash
 npm install
 npm run dev
 ```
 
-빌드:
+ë¹ë:
 
 ```bash
 npm run build
