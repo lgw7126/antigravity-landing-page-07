@@ -14,10 +14,10 @@
 
 ## ✨ 주요 특징
 
-- **Fullscreen BG Video** - AI 생성 영상(CloudFront CDN) 자동 재생
-- **Hot Pink Overlay** - `mix-blend-mode: color` + `screen` 레이어로 독특한 무드 연출
-- **Mobile Hamburger Menu** - 데스크톱 해상도에서 마은 메뉴
-- **Crown / Award Badge** - 수상 실적 강 컴포넌트
+- **풀스크린 배경 영상** — AI 생성 영상(CloudFront CDN) 자동 재생
+- **핫핑크 색조 오버레이** — `mix-blend-mode: color` + `screen` 레이어로 독특한 무드 연출
+- **모바일 햄버거 메뉴** — 반응형 네비게이션 슬라이드 메뉴
+- **Crown / Award 배지** — 수상 실적 강조 UI 컴포넌트
 
 ---
 
